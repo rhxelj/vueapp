@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <Test></Test>
+    <Test msg="Passed as properties"></Test>
   </div>
 
 </template>
